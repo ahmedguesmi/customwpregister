@@ -1,0 +1,20 @@
+{
+    "name": "ahmedguesmi/customwpregister",
+    "description": "This class formats common WordPress registration actions in a wrapper, so you can easily register posts, taxonomies, menus, sidebards and widgets.",
+    "license": "GPL",
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ahmedguesmi\\Customwpregister\\": "src"
+        }
+    },
+    "homepage": "https://github.com/ahmedguesmi/customwpregister",
+    "authors": [ 
+        {
+            "name": "Guesmi Ahmed",
+            "email": "ahmedguesmi.sb@gmail.com"
+        } 
+    ]           
+}
